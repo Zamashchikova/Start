@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "^.*\\.Rproj$\n^\\.Rproj\\.user$\n",
+    "created" : 1561388310968.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2708567950",
+    "id" : "66B0DDAC",
+    "lastKnownWriteTime" : 1559864265,
+    "last_content_update" : 1559864265,
+    "path" : "D:/R/BinClassComp/BinClassComp/.Rbuildignore",
+    "project_path" : ".Rbuildignore",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
